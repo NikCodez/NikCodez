@@ -10,7 +10,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 👨🏻‍💼 Currently working on Cubots - An AI-powered Intelligent Agent Platform.
+- 👨🏻‍💼 Currently serving at Cubemoons as Frontend Developer Intern.
+- 📌 Ongoing project : Cubots - An AI-powered Intelligent Agent Platform.
 - 📝 Currently learning MERN Stack And Refining My Frontend Skills.
 - 🧩 Looking to collaborate on Open Source Projects.
 - 🎯 Next Checkpoint :  Learning System Design And Fullstack Development.
